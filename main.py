@@ -13,7 +13,7 @@ CHANNEL_ID = 1272492110217613382
 SELF_MUTE = False
 SELF_DEAF = False
 
-usertoken = os.getenv("MTMyNjc1MTMyMjE2MjIwNDY3Mw.GIDL15._bCIjmxXJOJLiO9xwe6gf3dLRHoiwwxjERHdEQ")
+usertoken = os.getenv("MTMyNjc1MTMyMjE2MjIwNDY3Mw.GTqzkw.HfZg9WIsHvJ1sb9tRZLKKtmj1-lT1BIDU-QdHw")
 if not usertoken:
   print("[ERROR] Please add a token inside Secrets.")
   sys.exit()
